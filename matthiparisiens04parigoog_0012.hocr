@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./matthiparisiens04parigoog_0012.png"; bbox 0 0 4242 6159; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1088 4855 1224 4909">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1088 4855 1224 4909">
+     <span class='ocr_line' id='line_1_1' title="bbox 1088 4855 1224 4909; baseline 0 -9"><span class='ocrx_word' id='word_1_1' title='bbox 1088 4855 1224 4909; x_wconf 76' lang='lat' dir='ltr'>Printedby</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 839 4919 1475 5025">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 839 4919 1475 5025">
+     <span class='ocr_line' id='line_1_2' title="bbox 839 4919 1475 4973; baseline 0.002 -10"><span class='ocrx_word' id='word_1_2' title='bbox 839 4919 911 4964; x_wconf 77' lang='lat' dir='ltr'><strong>Em</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 919 4920 966 4964; x_wconf 72' lang='lat' dir='ltr'><strong>and</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 973 4919 1174 4967; x_wconf 69' lang='lat' dir='ltr'><strong>Sromswoonn.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1182 4919 1232 4965; x_wconf 77' lang='lat' dir='ltr'><strong>Hor</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1240 4920 1357 4973; x_wconf 57' lang='lat' dir='ltr'><strong>Mnjentym</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1365 4920 1475 4964; x_wconf 75' lang='lat' dir='ltr'><strong>Prlnters.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 934 4970 1386 5025; baseline 0.002 -10"><span class='ocrx_word' id='word_1_8' title='bbox 934 4972 980 5016; x_wconf 81' lang='lat' dir='ltr'><strong>For</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 987 4971 1038 5014; x_wconf 76' lang='lat' dir='ltr'><strong>Her</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1045 4970 1163 5025; x_wconf 70' lang='lat' dir='ltr'><strong>Mnjesty&#39;n</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1171 4970 1301 5024; x_wconf 62' lang='lat' dir='ltr'><strong>Stationem</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1309 4972 1386 5017; x_wconf 78' lang='lat' dir='ltr'>Offlee.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2126 6148">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2126 6148">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2126 6148; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2126 6148; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
